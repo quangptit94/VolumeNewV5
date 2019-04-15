@@ -1,1 +1,12 @@
-xxxxx
+{
+    "promote":[
+	    {
+            "is-show-promote":"true",
+            "package-name":"com.xxx.yyy.zzz",
+            "title":"Volume Booster",
+            "short-des":"Volume Booster - Music Player MP3 with Equalizer",
+            "img":"https://i.ibb.co/N6kXTnV/icon.png",
+	        "background":"https://i.ibb.co/rvTxYZg/image1.jpg"
+        }
+    ]
+}
