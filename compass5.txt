@@ -1,10 +1,9 @@
 {
     "datainit":[
 	    {
-            
-	    "is-alive-store":"false",
-	    "is-show-out":"false",
-            "package-name-replace":"com.digital.compass"
+	    "is-alive-store":"true",
+	    "is-show-out":"true",
+            "package-name-replace":"com.lvteam.gpscompass.navigation"
         }
     ]
 }
