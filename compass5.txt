@@ -1,0 +1,10 @@
+{
+    "datainit":[
+	    {
+            
+	    "is-alive-store":"true",
+	    "is-show-out":"true",
+            "package-name-replace":"com.xxx.yyy.zzz"
+        }
+    ]
+}
