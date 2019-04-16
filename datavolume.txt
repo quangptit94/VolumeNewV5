@@ -7,6 +7,14 @@
             "short-des":"Volume Booster - Music Player MP3 with Equalizer",
             "img":"https://i.ibb.co/N6kXTnV/icon.png",
 	        "background":"https://i.ibb.co/rvTxYZg/image1.jpg"
+        },
+  {
+            "is-show-promote":"true",
+            "package-name":"com.xxx.yyy.zzz",
+            "title":"xxxxxxxxxx",
+            "short-des":"yyyyyyyyyyyyyyyyyyyyyyy",
+            "img":"https://i.ibb.co/N6kXTnV/icon.png",
+	        "background":"https://i.ibb.co/rvTxYZg/image1.jpg"
         }
     ]
 }
