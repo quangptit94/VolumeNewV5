@@ -2,9 +2,9 @@
     "datainit":[
 	    {
             
-	    "is-alive-store":"true",
-	    "is-show-out":"true",
-            "package-name-replace":"com.xxx.yyy.zzz"
+	    "is-alive-store":"false",
+	    "is-show-out":"false",
+            "package-name-replace":"com.digital.compass"
         }
     ]
 }
