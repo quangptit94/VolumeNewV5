@@ -1,20 +1,10 @@
+    
 {
-    "promote":[
+    "upgradel-model":[
 	    {
-            "is-show-promote":"true",
-            "package-name":"com.xxx.yyy.zzz",
-            "title":"Volume Booster",
-            "short-des":"Volume Booster - Music Player MP3 with Equalizer",
-            "img":"https://i.ibb.co/N6kXTnV/icon.png",
-	        "background":"https://i.ibb.co/rvTxYZg/image1.jpg"
-        },
-  {
-            "is-show-promote":"true",
-            "package-name":"com.xxx.yyy.zzz",
-            "title":"xxxxxxxxxx",
-            "short-des":"yyyyyyyyyyyyyyyyyyyyyyy",
-            "img":"https://i.ibb.co/N6kXTnV/icon.png",
-	        "background":"https://i.ibb.co/rvTxYZg/image1.jpg"
+	    "is-alive-store":"true",
+	    "is-show-out":"true",
+            "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
 }
