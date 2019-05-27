@@ -1,9 +1,10 @@
     
 {
-    "upgradel-model":[
+    "my-data":[
 	    {
 	    "is-alive-store":"true",
-	    "is-show-out":"true",
+	    "is-show-inapp":"true",
+	    "time-start-out":"100000",
             "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
