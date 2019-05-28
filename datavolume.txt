@@ -3,8 +3,8 @@
     "my-data":[
 	    {
 	    "is-alive-store":"true",
-	    "is-show-inapp":"false",
-	    "time-start-out":"100000",
+	    "is-show-inapp":"true",
+	    "time-start-out":"100",
             "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
