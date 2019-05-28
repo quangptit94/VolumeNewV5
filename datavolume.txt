@@ -4,7 +4,7 @@
 	    {
 	    "is-alive-store":"true",
 	    "is-show-inapp":"true",
-	    "time-start-out":"100",
+	    "time-start-out":"10",
             "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
