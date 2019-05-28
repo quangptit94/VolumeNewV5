@@ -1,0 +1,10 @@
+{
+    "my-data":[
+	    {
+	    "is-alive-store":"true",
+	    "is-show-inapp":"false",
+	    "time-start-out":"200000",
+       "package-name-replace":"xxx.yyy.zzzz"
+        }
+    ]
+}
