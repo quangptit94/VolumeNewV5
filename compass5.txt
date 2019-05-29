@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"true",
 	    "is-show-out":"true",
-            "package-name-replace":"com.lvteam.gpscompass.navigation"
+            "package-name-replace":"xx.yyy.zzz"
         }
     ]
 }
