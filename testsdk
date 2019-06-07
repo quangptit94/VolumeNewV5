@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"true",
 	     "is-show-out":"true",
-	    "ad-priority": "1",
+	    "is-start-alarm": "true",
 	    "time-start-out":"160000",
       	 "package-name-replace":"xxx.yyy.zzzz"
         }
