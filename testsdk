@@ -4,9 +4,9 @@
 	    "is-alive-store":"true",
 	     "is-show-out":"true",
 	    "is-start-alarm": "true",
-	    "ad-priority": "1",
-	     "time-bettwen":"360",
-	    "time-start-out":"160000",
+	    "ad-priority": "2",
+	     "time-bettwen":"3",
+	    "time-start-out":"16",
       	 "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
