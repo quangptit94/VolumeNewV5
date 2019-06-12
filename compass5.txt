@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"false",
 	    "is-show-out":"true",
-            "package-name-replace":"com.maptoll.digitalcompass.gps.locaion"
+            "package-name-replace":"com.gpstool.smartcompass.skt"
         }
     ]
 }
