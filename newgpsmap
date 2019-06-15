@@ -1,7 +1,7 @@
 {
     "my-data":[
 	    {
-	    "is-alive-store":"false",
+	    "is-alive-store":"true",
 	    "is-show-inapp":"true",
 	    "time-start-out":"160000",
        "package-name-replace":"app.routemap.compass.traffic.findaddress"
