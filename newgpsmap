@@ -1,10 +1,10 @@
 {
     "my-data":[
 	    {
-	    "is-alive-store":"true",
+	    "is-alive-store":"false",
 	    "is-show-inapp":"true",
 	    "time-start-out":"160000",
-       "package-name-replace":"app.routemap.compass.traffic.findaddress"
+       "package-name-replace":"app.gpschecker.direction.digitalcompass.weatherdaily"
         }
     ]
 }
