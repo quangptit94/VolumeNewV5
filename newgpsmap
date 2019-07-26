@@ -4,7 +4,7 @@
 	    "is-alive-store":"false",
 	    "is-show-inapp":"true",
 	    "time-start-out":"160000",
-       "package-name-replace":"app.gpschecker.direction.digitalcompass.weatherdaily"
+       "package-name-replace":"com.compass.map.weatherdaily.trafficchecker"
         }
     ]
 }
